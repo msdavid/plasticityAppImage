@@ -8,9 +8,9 @@ I made this simple script so I could run plasticity in my machine and creating t
 download the AppImage from the release and run it in your machine (in nixOS you need appimage-run)  
 
 ### If you would like to build the AppImage yoursef
-Use the build.sh script
-I used distrobox ( https://github.com/89luca89/distrobox ) to build in a Debian 12 image
-Once you are into your distr0 clon this repo, make changes to the build.sh script if needed and run it.
+Use the build.sh script.  
+I used distrobox ( https://github.com/89luca89/distrobox ) to build the release binary in a Debian 12 image  
+Once you are into your distro clone this repo, make changes to the build.sh script if needed and run it.  
 
 ## Disclaimer
 
